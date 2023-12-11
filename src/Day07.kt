@@ -86,7 +86,7 @@ fun main() {
     //val testInput = readInput("Day07_test")
     //check(part1(testInput) == 1)
 
-    val input = readInput("Day07")
+    val input = readInput("Day07_Agilent")
 
     part1(input).println()
     part2(input).println()
